@@ -1,1 +1,1 @@
-<?php echo "hola tron xxs ----xxxx-----" ?>
+<?php echo "hola tron	" ?>
