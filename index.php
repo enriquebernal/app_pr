@@ -7,6 +7,7 @@
 <?php
   //include here feature 3
   echo "this is the new feature 3 ";
+  echo "more things for feature 3 ";
 
 
 ?>
