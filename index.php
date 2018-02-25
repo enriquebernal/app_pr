@@ -4,7 +4,8 @@
 
 <?php echo "testing feature 2 " ?>
 
-<?php 
+<?php
   //include here feature 3
+  echo "this is the feature 3 "
 
 ?>
