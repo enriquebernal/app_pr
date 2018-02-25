@@ -11,5 +11,10 @@
   echo "this is the new feature 3 ";
   echo "more things for feature 3 ";
 
-
+    echo 'More F3';
+    echo 'More F3';
+    echo 'More F3';
+    echo 'More F3';
+    echo 'More F3';
+    echo 'More F3';
 ?>
