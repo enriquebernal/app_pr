@@ -6,6 +6,7 @@
 
 <?php
   //include here feature 3
-  echo "this is the feature 3 "
+  echo "this is the new feature 3 ";
+
 
 ?>
