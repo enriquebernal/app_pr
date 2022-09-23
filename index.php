@@ -6,5 +6,5 @@
 
 <?php 
   //include here feature 3
-
+  echo "COMMIT TEST";
 ?>
