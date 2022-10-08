@@ -1,10 +1,6 @@
-<?php echo "hola tron desde c9	" ?>
+<?php echo "Hola" ?>
 
-<?php echo "testing feature 1 xxx" ?>
+<?php echo "DESDE " ?>
 
-<?php echo "testing feature 2 " ?>
+<?php echo "LA REPO " ?>
 
-<?php 
-  //include here feature 3
-  echo "COMMIT TEST";
-?>
